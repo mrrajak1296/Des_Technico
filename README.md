@@ -43,6 +43,8 @@ mrrajak1296-des_technico/
    ```sh
    mvn test
    ```
+## Project Explanation
+Video Link : - https://drive.google.com/file/d/1X9xm-c7geSo9fBRCstUpv9M-Gy34Dic2/view?usp=drive_link
 
 ## Technologies Used
 - **Java** - Programming language for test automation
