@@ -1,11 +1,11 @@
-# Des_technico
+# WorkWise
 
 ## Overview
 This repository contains an automated testing framework for an e-commerce website using Selenium, Cucumber, and TestNG. This document outlines the testing strategies and scope for the Tec Technico. Testing ensures proper functionality, UI/UX, compatibility, and performance for key features such as registration, login, Dashboard,Todo,All notes, profile.
 
 ## Project Structure
 ```
-mrrajak1296-des_technico/
+mrrajak1296-Workwise/
 │-- Bug Report (3).xlsx          # Report on identified bugs
 │-- pom.xml                      # Maven dependencies and configurations
 │-- Test Cases (6).xlsx          # Test case documentation
