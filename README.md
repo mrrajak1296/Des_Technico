@@ -35,7 +35,7 @@ mrrajak1296-Workwise/
 
 ## Setup and Installation
 1. **Install dependencies:**
-   Ensure you have Maven installed and run:
+   Ensure you have Maven installed and run
    ```sh
    mvn clean install
    ```
